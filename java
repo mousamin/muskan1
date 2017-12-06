@@ -6,4 +6,5 @@ crud
 create
 read
 update
-delete #hiiiiiiiiiiiiiiiiiiiiii #hello
+delete
+close
